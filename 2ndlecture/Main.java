@@ -13,7 +13,7 @@
 //         double height = 5.6;
 //         boolean isStudent = true;
 //         double weight = 60.0;
-//         name = "payal";
+//         name = "patel";
 //         System.out.println(name);
 //     }
 // }
