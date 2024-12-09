@@ -1,4 +1,4 @@
-public class Patterns {
+public class ButterflyPattern {
     public static void main(String[] args) {
         //Butterfly Pattern
         int n = 4;
