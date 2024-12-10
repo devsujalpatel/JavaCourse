@@ -11,7 +11,7 @@ public class FirstQue {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-
+        
         average(a,b,c);
     }
 }
