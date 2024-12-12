@@ -15,6 +15,12 @@ public class Strings {
         String name = "Tony";
         String surname = "Stark";
         String fullName = name + " " + surname;
-        System.out.println("My name is " + fullName);
+        // System.out.println("My name is " + fullName);
+        // System.out.println(fullName.length());
+
+        // charAt
+        for(int i = 0; i < fullName.length(); i++) {
+            System.out.println(fullName.charAt(i));
+        }
     }
 }
