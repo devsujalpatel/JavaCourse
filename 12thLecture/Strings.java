@@ -38,5 +38,8 @@ public class Strings {
         String fullName = "My name is Tony Stark";
         System.out.println(fullName.substring(11, fullName.length()));
         System.out.println(fullName.substring(5));
+
+        // Strings are immutable
     }
+
 }
