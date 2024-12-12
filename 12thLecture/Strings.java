@@ -25,13 +25,18 @@ public class Strings {
         // }
 
         // compare
-        String name1 = "Tony";
-        String name2 = "Tony";
+        // String name1 = "Tony";
+        // String name2 = "Tony";
 
-        if(name1.compareTo(name2) == 0) {
-            System.out.println("Same");
-        } else {
-            System.out.println("Not same");
-        }
+        // if(name1.compareTo(name2) == 0) {
+        //     System.out.println("Same");
+        // } else {
+        //     System.out.println("Not same");
+        // }
+
+        // substring
+        String fullName = "My name is Tony Stark";
+        System.out.println(fullName.substring(11, fullName.length()));
+        System.out.println(fullName.substring(5));
     }
 }
