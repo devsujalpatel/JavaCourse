@@ -10,5 +10,9 @@ public class StringBuilders {
         // set char at index
         // sb.setCharAt(0, 'P');
         // System.out.println(sb);
+
+        // insert char at index
+        sb.insert(0, 'S');
+        System.out.println(sb);
     }
 }
