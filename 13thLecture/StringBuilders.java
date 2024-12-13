@@ -12,7 +12,7 @@ public class StringBuilders {
         // System.out.println(sb);
 
         // insert char at index
-        sb.insert(0, 'S');
+        sb.insert(2, 'n');
         System.out.println(sb);
     }
 }
