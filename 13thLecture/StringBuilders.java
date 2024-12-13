@@ -14,5 +14,9 @@ public class StringBuilders {
         // insert char at index
         sb.insert(2, 'n');
         System.out.println(sb);
+
+        // deleting
+        sb.delete(2, 4);
+        System.out.println(sb);
     }
 }
