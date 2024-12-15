@@ -25,6 +25,14 @@ public class Operators {
         // rational operators
         
         // logical operators
-    
+        if (a > b && a < b) {
+            System.out.println("a is greater than b");
+        } else  if (a > b || a < b) {
+            System.out.println("a is not greater than b");
+        } else if(a != b) {
+            System.out.println("a is not equal to b");
+        } else{
+            System.out.println("Invalid");
+        }
     }
 }
