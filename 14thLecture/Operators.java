@@ -13,6 +13,7 @@ public class Operators {
         System.out.println(f);
         int g = a % b;
         System.out.println(g);
+        // unary operators
         int h = a++;
         System.out.println(h);
         int i = a--;
@@ -21,5 +22,6 @@ public class Operators {
         System.out.println(j);
         int k = --a;
         System.out.println(k);
+
     }
 }
