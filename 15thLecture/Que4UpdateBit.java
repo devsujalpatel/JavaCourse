@@ -18,6 +18,6 @@ public class Que4UpdateBit {
             int newNumber = newBitMask & n;
             System.out.println(newNumber);
         }
-
     }
+
 }
